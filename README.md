@@ -1,5 +1,9 @@
 # Coolsms Agent
 
+## 🛑 주의사항 🛑
+* 더 이상 쿨에스엠에스 DB 연동형 에이전트는 유지보수 되지 않습니다.
+* 문서를 통해 [API 개발연동](https://developers.solapi.com/references/messages/sendManyDetail)을 진행해주시거나, [SOLAPI Github](https://github.com/solapi) 내 SDK를 통해 개발연동을 진행해주시기 바랍니다.
+
 ## DB 준비
 아래 내용으로 DB 및 계정을 만들어 주세요.
 ```
